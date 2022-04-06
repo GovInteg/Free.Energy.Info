@@ -1,0 +1,159 @@
+______________________________________________________________________________
+|  File Name      : GASNOTES.ASC     |  Online Date     :  03/14/96          |
+|  Contributed by : Wildman          |  Dir Category    :  ENERGY            |
+|  From           : KeelyNet BBS     |  DataLine        :  (214) 324-3501    |
+|           KeelyNet * PO BOX 870716 * Mesquite, Texas * USA * 75187         |
+|        A FREE Alternative Sciences BBS sponsored by Vanguard Sciences      |
+|    InterNet www.keelynet.com email jdecker@keelynet.com (Jerry Decker)     |
+|      Files also available at Bill Beaty's http://www.eskimo.com/~billb     |
+|----------------------------------------------------------------------------|
+            03/10/96 - Submitted by The Wildman for your approval.
+------------------------------------------------------------------------------
+Several years ago, an idea popped into my mind that kept bothering me on a
+regular basis. At the time, I was employed as an electronics technician at a
+retail home furnishing establishment.  Along with doing repairs on various
+pieces of electronic equipment; I also went out on service calls and also
+delivered new merchandise. My duties also included the mechanical upkeep of
+the truck that I drove at this business. Oil changes, fixing minor things and
+tune-ups, etc.  Since I had always done my own repairs on my personal
+vehicles, this was no real problem as I "had the experiece".
+
+In an effort to curb the encreasing fuel costs of the many vehicles that were
+owned by this store; all of the gasoline burning trucks were converted over to
+propane. This was a less expensive fuel to buy. The conversion was expensive,
+but the savings on fuel would pay for it in less than a year due to the number
+of miles that we put on those trucks. My truck was a Dodge van with the "slant
+six" engine.  Puny in the horsepower department, but it got me where I needed
+to go.  I kept a log of the miles and the amount of fuel that was burned in my
+truck. Our boss made us do that so that he could keep track of us if we goofed
+of and used his trucks for other than the business purposes!
+
+Smart fellow, but hard to work for.
+
+I recorded a steady average 14 miles per gallon on the propane and 16 on
+regular gasoline. Not bad considering the heavy hawling that I did a lot of.
+
+One day while spending some time in the library; I came upon the subject of
+propane in an engineering book. It stated that propane had 131,000 BTU's of
+heat in 1 liquid gallon. OK. So what is the point? I'm getting to it!
+
+I also read that gasoline had 3 times that amount in a liquid gallon. A little
+light went off. And then the question came.
+
+If I get 14 miles per gallon while running on propane in my truck; and only 16
+MPGs on gasoline; and gasoline has 3 times the energy per gallon than propane
+has; where the hell is all that extra energy going?
+
+Can't be machanical cause there ain't that much more horsepower. Can't be heat
+cause it actually ran a little cooler on gas.
+
+Only thing left; it had to be going out the tailpipe as wasted energy!
+BINGO!!!  WHY?
+
+Why, indeed! How come I had not heard about this before? What's going on here?
+I read more in some more chemistry books and discovered the secret of what was
+going on. Ya see; I knew that that propane was going into that Dodge engine as
+a gas and not an atomised liquid as gasoline does. That was the answer. The
+propane was burned completely in the engine. It would pass the most stringent
+of California emission tests!
+
+I had heard from the people who installed the propane conversions that this
+product would burn cleanly just like the kitchen stove on gas; and they were
+right. After 6,000 miles the oil would come out of the engine a little dark
+but in no way really ugly like out a gasoline burner.
+
+So what was the secret of burning gasoline cleanly in an engine? And would
+this improve the major problem that we have with smog these days?
+
+After reading some more of those chemical engineering books; I learned that
+gasoline would vaporise (not burn) at about 350 degrees F. So the idea came to
+me that if I could heat the fuel and air mixture up to about say, 400 degrees
+or so; then it would be pure gas and air entering the cylinders and would burn
+much more cleanly and efficiently.
+
+But how would I do this? Then I hit a snag.  Liquid gasoline has a specific
+volume and gaseous gasoline is about 3 times larger. This meant that a regular
+carburetor would not work right.  Alas, fuel injection has taken over. Hooray
+for electronics. You see, that little computer monitors the amount of oxygen
+that is exiting the exhaust manifold at all times in order to correctly adjust
+the proper fuel to air ratio for the engine. So all we have to do is put a
+heater under the airbox and we have it.  Maybe!
+
+I figured out that if we made a heat exchanger and placed it under the fuel
+injection stuff and used the hot exhaust as our heat source; we should get
+plenty of heat to do the job.
+
+Only, how can we exhange the heat that quickly and what about when we start
+the engine cold?
+
+When we start the engine up, the fuel injection will do what it always has. As
+the exchanger heats up and the gasoline begins to expand; the little computer
+will adjust the amount of fuel that the injectors put into the intake
+manifold. The mixture will continue to be at the correct ratio. Now we got
+something here. We should see about triple the gas mileage. And run cleaner
+too!
+
+And now the clincher! You know, we all like to think that we are the only ones
+that have a certain idea in mind and that we are going to really invent
+something that ain't been here before. Well. tain't so!
+
+I read a file off the Keelynet BBS called LEENOTES.ASC. Get it and read it!
+
+Mr. Lee Tripett has had the same idea and has experimented with it and found
+out that he could get 1/3 the fuel flow for the same power out using this
+method. He talked to some people about it and was informed of the political
+and economic ramifications of this idea and decided, I guess, not to persue
+it.
+
+However, I am a person that puts the good of other people ahead of politics
+and economics. If it will help this country and the world, than hang the
+politicians and cartels.
+
+Using this system, the average automobile would triple it's mileage and would
+be entirely clean burning. Yet oil cartels and politicians don't want this
+information out. They would rather suck our pockets dry and pollute our land
+just so they can live the good life. And then in Washington say that they are
+for balancing the budget in one breath and then voting themselves a pay raise
+in another breath. It's lunacy!
+
+This system will work and this information needs to get out! And since "they"
+don't want it to get out; we must do it!  That's why I have taken the time to
+write this file. To whoever reads this file; please put it up on every BBS
+that you are on so that we can pass it on. Also, if anyone has a good design
+for a small and efficient heat exchanger; make a drawing and get this info out
+there.
+
+I haven't built one yet; but, I'm about to figure one out. Trying to do this
+plus run a small electronics repair business is tough.
+
+So, now you know what I know. By the way; Mr. Tripette's idea about using
+steel balls inside the heat exchanger to speed up the heat transfer is
+perfect! Should work great. And boys; don't give out your where-abouts when
+you upload this material cause Big Brother is watching and wants to know where
+you are! He don't want this to get out.
+
+Remember the guy that developed the 100MPG carburetor years ago?  It was a
+system similer to this. Whatever happened to him? Nobody knows! And I don't
+want to know. So how about driving around in a car that gets say, 90MPGs. Good
+idea. And no smog converter!
+
+The Wildman
+------------------------------------------------------------------------------
+The following is the relevant section excerpted from LEENOTES.ASC on KeelyNet
+
+On still another subject of energy.  Many years ago I developed, after two
+years of trial and error, two ways to inject and monitor the rate of gasoline
+consumption for an 11 hp engine which was driving an electric generator.
+
+I monitored this flow for a constant resistive electrical load of 2500 watts.
+The difference in flow rate using the regular carburetor and my device for
+vaporizing the fuel was 300%.  That is right, three hundred percent
+improvement in fuel efficiency!  (The fuel was vaporized by injecting it into
+a jacket surrounding the exhaust pipe which was filled with steel beads.
+Additional details available upon request.)
+
+After making this startling re-discovery of a common old idea I talked to a
+number of community college instructors in the automotive field. They were not
+at all surprised but when they told me of the political and economic
+ramifications of getting this information adopted I dropped the whole project.
+------------------------------------------------------------------------------

@@ -1,0 +1,84 @@
+MOLECULAR DISSOCIATION OF WATER
+
+A PROJECT FOR THE EXPERIMENTER BY DAN DANFORTH
+
+In. the original setup that Stan Meyer showed us, he used 36 volts as the
+basic potential applied to the reaction chamber. He also commented that
+stainless steel ( 410 not 403 ) was the only metal that could be used as
+oxides formed with all others. His original chamber used 18 inch long by
+0.375 inch diameter (o.d.) rod surrounded by 1 inch diameter (i.d.) 16 inch
+long pipe. The reason for the difference in length is for mechanical ease
+of construction. My prototype used 14 inch long rod and 12 inch long pipe
+of similar diameters as the drawing indicates.
+
+Having a severe lack of parts diversity here in Sri-Lanka, I was only able
+to obtain a 24 volt. 8 amp transformer and built my circuitry around that.
+The final output is 20 volts with Ml reading 10 amps to the pulsing circuit
+which generates a symetricel squarewave ( 50% duty cycle ) to the flyback
+inductor connected in series with the chamber as the schematic shows. The
+flyback high voltage spike is directed across the chamber via c* end d*.
+The use of a high voltage spike alone, without the current being delivered
+through the liquid, will not cause the disassociation to take place. This I
+verified using an ignition coil in place of the inductor and applied the
+secondary with halfwave rectification and blocking capacitor to prevent
+burn out to the chamber with no results. Apparently the current in the
+water aligns the molecules approprately to allow the high voltege spike to
+do its workr which in my opinion is the stimulation of molecular resonance.
+Once Stan's unit was made to begin breakdown (which takes 6 to 8 seconds)
+he was able to reduce both current and voltage to miniscule proportions. I
+attribute this to sympathetic oscillation of the aligned molecules,
+requiring very little in the way of additional excitation. A phenomena akin
+to Tesla `s super resonance... resulting in Stan discovering that he only
+had to supply three pulses in ten to satisfy the requirement of the
+chamber. I have not yet had the opportunity to duplicate this portion of
+the experiment but, in time I vill.
+
+Duplication of the device described in these pages, however, will produce
+the phenomena and hopefully launch other enterprising end inventive souls
+on to designing their own refined models. It would be nice to have feedback
+so that we can all collectively work to bring about the transition to
+non-pollution energy.
+
+P.S.- Tho electrical circuit is by no means optinised, but represents
+instead the result of parts availability here. Any good technician could
+improve on it quite readily.
+
+There are two primary frequencies that produce the best results. They are.
+14372 Hz and 43430 Hz. The former is about 50% more efficient, but it seems
+that just about any frequency between 9 KHz and 143762 KHz works quite
+well. 1) This is because the nature of the wave form ( a spike ) is rich in
+harmonics and one of them is bound to be close to one of the two primary
+frequencies.
+
+Use of permanent magnets may also increase efficiency. I'll give you the
+outcome of that attempt in my next letter along with the plans for what I
+hope to be a much improved version.
+
+Note: Sub-harmonics of the two primary frequencies at which dissociation
+will occur:
+
+43430 Hz             143762 HZ
+SUBHARMONIC          SUBHABMONIC
+1st 21715    HZ      1st 71881    HZ
+2nd 14476.67 HZ      2nd 47920.67 HZ
+3rd 15517.5  HZ      3rd 35840.1  HZ
+4th 8686     Hz      4th 28752.4  HZ
+
+*1500 VOLTS IS THE MINIMUM REQUIRED FOR MOLECULAR RINGING TO BEGIN.
+
+The ball is now in your court.
+
+Let's get the game started and have as many players as possible.
+
+From the legal stand point it can be argued in an international court of
+law that the vital need of this technology by every nation to aleviate the
+critical threat to our environment globally is so greet as to justify
+nullification of proprietry rights if those rights are used to delay or
+prevent distribution of the technology and if such delay or prevention -
+including measured and / or levied distribution so as to restrict or limit
+its use, or for the purposes of financial profit isolate significent
+economic groups from its use and if such acts previously mentioned can be
+shown to cause an increased danger to life, persons involved in such acts
+can be convicted of intent to do bodily harm by crime of omission.
+
+
