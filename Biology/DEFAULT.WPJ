@@ -1,0 +1,33 @@
+
+[PROJECT]
+CCAPT=1
+MCAPT=1
+BCAPT=1
+DCAPT=0
+RCAPT=0
+COMPILE=tee.com cl -c -AM -W4 -Zps -Od -DNOCOMM %f
+MAKE=tee.com nmk.com %n
+REBUILD=tee.com nmk.com /a %n
+DEBUG=cvw %n
+RUN=%n
+NAME=Default Project
+DIR=
+FILE2=f:\wildcat\biology\age1.asc
+FILE3=f:\winedit\dll-src\we_ext.dlg
+FILE4=f:\winedit\dll-src\we_ext.def
+FILE5=f:\winedit\dll-src\we_ext.c
+FILE6=f:\winedit\dll-src\we_ext
+FILE7=f:\winedit\dll-src\private.h
+FILE8=f:\winedit\dll-src\edmacro.lib
+FILE9=
+FILE10=
+FILE11=
+FILE12=
+FILE13=
+FILE14=
+FILE15=
+FILE16=
+FILE17=
+FILE18=
+FILE19=
+FILE20=
